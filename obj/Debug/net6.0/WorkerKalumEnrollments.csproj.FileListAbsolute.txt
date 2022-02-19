@@ -1,0 +1,15 @@
+C:\Users\Developer\Documents\2022\kinal\net\backend\prod\WorkerKalumEnrollments\WorkerKalumEnrollments\bin\Debug\net6.0\WorkerKalumEnrollments.exe
+C:\Users\Developer\Documents\2022\kinal\net\backend\prod\WorkerKalumEnrollments\WorkerKalumEnrollments\bin\Debug\net6.0\WorkerKalumEnrollments.deps.json
+C:\Users\Developer\Documents\2022\kinal\net\backend\prod\WorkerKalumEnrollments\WorkerKalumEnrollments\bin\Debug\net6.0\WorkerKalumEnrollments.runtimeconfig.json
+C:\Users\Developer\Documents\2022\kinal\net\backend\prod\WorkerKalumEnrollments\WorkerKalumEnrollments\bin\Debug\net6.0\WorkerKalumEnrollments.dll
+C:\Users\Developer\Documents\2022\kinal\net\backend\prod\WorkerKalumEnrollments\WorkerKalumEnrollments\bin\Debug\net6.0\ref\WorkerKalumEnrollments.dll
+C:\Users\Developer\Documents\2022\kinal\net\backend\prod\WorkerKalumEnrollments\WorkerKalumEnrollments\bin\Debug\net6.0\WorkerKalumEnrollments.pdb
+C:\Users\Developer\Documents\2022\kinal\net\backend\prod\WorkerKalumEnrollments\WorkerKalumEnrollments\obj\Debug\net6.0\WorkerKalumEnrollments.csproj.AssemblyReference.cache
+C:\Users\Developer\Documents\2022\kinal\net\backend\prod\WorkerKalumEnrollments\WorkerKalumEnrollments\obj\Debug\net6.0\WorkerKalumEnrollments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\Documents\2022\kinal\net\backend\prod\WorkerKalumEnrollments\WorkerKalumEnrollments\obj\Debug\net6.0\WorkerKalumEnrollments.AssemblyInfoInputs.cache
+C:\Users\Developer\Documents\2022\kinal\net\backend\prod\WorkerKalumEnrollments\WorkerKalumEnrollments\obj\Debug\net6.0\WorkerKalumEnrollments.AssemblyInfo.cs
+C:\Users\Developer\Documents\2022\kinal\net\backend\prod\WorkerKalumEnrollments\WorkerKalumEnrollments\obj\Debug\net6.0\WorkerKalumEnrollments.csproj.CoreCompileInputs.cache
+C:\Users\Developer\Documents\2022\kinal\net\backend\prod\WorkerKalumEnrollments\WorkerKalumEnrollments\obj\Debug\net6.0\WorkerKalumEnrollments.dll
+C:\Users\Developer\Documents\2022\kinal\net\backend\prod\WorkerKalumEnrollments\WorkerKalumEnrollments\obj\Debug\net6.0\ref\WorkerKalumEnrollments.dll
+C:\Users\Developer\Documents\2022\kinal\net\backend\prod\WorkerKalumEnrollments\WorkerKalumEnrollments\obj\Debug\net6.0\WorkerKalumEnrollments.pdb
+C:\Users\Developer\Documents\2022\kinal\net\backend\prod\WorkerKalumEnrollments\WorkerKalumEnrollments\obj\Debug\net6.0\WorkerKalumEnrollments.genruntimeconfig.cache
